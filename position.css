@@ -1,0 +1,15 @@
+*,html,body {
+  margin : 0;
+  padding  :0;
+  }
+  
+  .box {
+    width : 150px ;
+    height : 150px;
+    background-color: #00FF00;
+    border-radius : 50%;
+    position : absolute;
+    right: 45%;
+    left: 45%;
+    top: 40%;
+  }
